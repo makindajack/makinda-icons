@@ -145,7 +145,7 @@
     ("todo" . ("" . "#f1c75b"))
     ("next" . ("" . "#8b949e"))
     ("javascript" . ("" . "#f1c75b"))
-    ("typescript" . ("" . "#5aa6ff"
+    ("typescript" . ("" . "#5aa6ff"))
     ("word" . ("" . "#5aa6ff"))
     ("excel" . ("" . "#7bd88f"))
     ("powerpoint" . ("" . "#f1923c"))
